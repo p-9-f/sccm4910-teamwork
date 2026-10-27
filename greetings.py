@@ -13,6 +13,9 @@ def banner():
 if __name__ == "__main__":
     banner()
     # --- ADD YOUR GREETING BELOW THIS LINE ---
-    print("Hello from tommydavies-byte")  #this is a greeting from me
-                                          #this is a test comment
+    print("Hello from Ingrid!")
+    # I have been told to "add the lab's comment". Not knowing what that means, I am now just adding
+    # a random comment!
 
+    # I have now been asked to clarify this comment, which I thought was already quite clear, but oh
+    # well! Here's a random, clear, comment!

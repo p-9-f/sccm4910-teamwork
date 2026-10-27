@@ -16,3 +16,6 @@ if __name__ == "__main__":
     print("Hello from Ingrid!")
     # I have been told to "add the lab's comment". Not knowing what that means, I am now just adding
     # a random comment!
+
+    # I have now been asked to clarify this comment, which I thought was already quite clear, but oh
+    # well! Here's a random, clear, comment!
